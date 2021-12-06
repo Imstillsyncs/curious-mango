@@ -77,10 +77,6 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
   - type: cta_section
     title: This Is A CTA
     subtitle: >-

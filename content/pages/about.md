@@ -2,7 +2,7 @@
 title: Games
 sections:
   - type: hero_section
-    title: Who We Are
+    title: Games
     align: center
   - type: content_section
     content: >-

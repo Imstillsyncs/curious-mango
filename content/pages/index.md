@@ -79,7 +79,7 @@ sections:
         actions: []
 seo:
   title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  description: Fir
   extra:
     - name: 'og:type'
       value: website

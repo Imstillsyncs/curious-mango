@@ -16,6 +16,13 @@
                 "style": "link"
             },
             {
+                "label": "Home",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "url": "/about",
                 "style": "link"
             },
@@ -28,13 +35,6 @@
                 "label": "Forms",
                 "url": "/forms",
                 "style": "primary"
-            },
-            {
-                "label": "Home",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },

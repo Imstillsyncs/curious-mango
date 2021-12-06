@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: features_section
-    title: Features
+    title: Games
     features:
       - title: Feature 1
         content: >-

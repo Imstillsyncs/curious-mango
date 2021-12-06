@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Games
 seo:
   title: ''
   description: ''

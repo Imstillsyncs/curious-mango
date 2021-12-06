@@ -7,7 +7,7 @@
         "nav_links": [
             {
                 "label": "Games",
-                "url": "/features",
+                "url": "/g",
                 "style": "link"
             },
             {
